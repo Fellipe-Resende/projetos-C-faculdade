@@ -1,2 +1,2 @@
 # projetos-C-faculdade
-Adiciona projetos iniciais em C
+Adicionando projetos iniciais em C
